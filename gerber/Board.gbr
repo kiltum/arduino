@@ -1,0 +1,17 @@
+%TF.GenerationSoftware,Novarm,DipTrace,3.0.0.2*%
+%TF.CreationDate,2017-03-04T22:17:15+02:00*%
+%FSLAX26Y26*%
+%MOIN*%
+%TF.FileFunction,Drawing,Board polygon*%
+%TF.Part,Single*%
+G75*
+G01*
+%LPD*%
+G36*
+X394000Y394000D2*
+X4437307D1*
+Y3811323D1*
+X394000D1*
+Y394000D1*
+G37*
+M02*
