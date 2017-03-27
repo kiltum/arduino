@@ -1,0 +1,15 @@
+*** Component Net List Start ***
+
+
+*** Component Net List End ***
+
+*** Spice Libary Statements Start ***
+
+*** Spice Libary Statements End ***
+
+*** Spice Include Statements Start ***
+
+*** Spice Include Statements End ***
+
+.TRAN 0s 0s 0s
+
