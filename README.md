@@ -10,17 +10,16 @@ What this shield can do?
 - Have 2x0-10V output
 - Have RS-485
 - Have one pulled-up pin for 1-wire
-- 4 aurduino pin wired out directly
+- 2 arduino/1 uniport out
 
 ## Pin-out for auduio
 
 - D2,D3,D4 - TX,RX and RE/DE of 485
 - D5,D6 - PWM output for 0-10V
 - D7-D10 - control for switch relay 1-4
-- D11 - pulled up output for 1-Wire
+- A4 - pulled up output for 1-Wire
 - A0-A3 - sensors input
-- A4-A7 - wired out
-- D12,D13 - not connected
+- D11,D12 - uniport RX/TX or direct out
 
 ## Pin-out for board
 
@@ -36,19 +35,19 @@ Take board like on picture
 6 - GND
 7 - DQ
 8 - 5V
-9 - A4 I/O of arduino
+9 - 
 
 separate
 
-10 - A5 
-11 - A6 
-12 - A7
+10 -  
+11 - UNIPORT Positive terminal 
+12 - UNIPORT Negative terminal
 13 - 0-10V output 1
 14 - GND
 15 - 0-10V output 2
-16 - R4 common
-17 - R4 closed
-18 - R4 open
+16 - R4 closed
+17 - R4 open	
+18 - R4 ground
 
 ### Bottom, left to right
 
@@ -64,15 +63,15 @@ separate
 
 separate
 
-10 - R1 common
-11 - R1 closed
-12 - R1 open
+10 - R1 ground
+11 - R1 open
+12 - R1 closed
 13 - R2 ground 
-14 - R2 closed
-15 - R2 open
+14 - R2 open
+15 - R2 closed
 16 - R3 ground
-17 - R3 closed
-18 - R3 open
+17 - R3 open
+18 - R3 close
 
 ## License
 
