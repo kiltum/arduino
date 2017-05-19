@@ -1,5 +1,8 @@
 # Arduino shield for automation purposes
 
+![alt text](https://raw.githubusercontent.com/kiltum/arduino/master/real.jpg "Ready for using")
+
+
 ![alt text](https://raw.githubusercontent.com/kiltum/arduino/master/3dmodel.png "How it should look")
 
 What this shield can do?
@@ -27,51 +30,51 @@ Take board like on picture
 
 ### Top. Left-to-right
 
-1 - power in. AC/DC from 15V till 30V
-2 - power in
-3 - GND
-4 - RS485A
-5 - RS485B
-6 - GND
-7 - DQ
-8 - 5V
-9 - 
+- 1 - power in. AC/DC from 15V till 30V
+- 2 - power in
+- 3 - GND
+- 4 - RS485A
+- 5 - RS485B
+- 6 - GND
+- 7 - DQ
+- 8 - 5V
+- 9 - 
 
-separate
+separator
 
-10 -  
-11 - UNIPORT Positive terminal 
-12 - UNIPORT Negative terminal
-13 - 0-10V output 1
-14 - GND
-15 - 0-10V output 2
-16 - R4 closed
-17 - R4 open	
-18 - R4 ground
+- 10 -  
+- 11 - UNIPORT Positive terminal 
+- 12 - UNIPORT Negative terminal
+- 13 - 0-10V output 1
+- 14 - GND
+- 15 - 0-10V output 2
+- 16 - R4 closed
+- 17 - R4 open	
+- 18 - R4 ground
 
 ### Bottom, left to right
 
-1 - Sensor 1
-2 - Sensor 1
-3 - Sensor 2
-4 - Sensor 2
-5 - Sensor 3
-6 - Sensor 3
-7 - Sensor 4
-8 - Sensor 4
-9 - not connected
+- 1 - Sensor 1
+- 2 - Sensor 1
+- 3 - Sensor 2
+- 4 - Sensor 2
+- 5 - Sensor 3
+- 6 - Sensor 3
+- 7 - Sensor 4
+- 8 - Sensor 4
+- 9 - not connected
 
-separate
+separator
 
-10 - R1 ground
-11 - R1 open
-12 - R1 closed
-13 - R2 ground 
-14 - R2 open
-15 - R2 closed
-16 - R3 ground
-17 - R3 open
-18 - R3 close
+- 10 - R1 ground
+- 11 - R1 open
+- 12 - R1 closed
+- 13 - R2 ground 
+- 14 - R2 open
+- 15 - R2 closed
+- 16 - R3 ground
+- 17 - R3 open
+- 18 - R3 close
 
 ## License
 
