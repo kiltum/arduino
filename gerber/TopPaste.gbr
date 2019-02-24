@@ -1,9 +1,8 @@
-%TF.GenerationSoftware,Novarm,DipTrace,3.3.1.2*%
-%TF.CreationDate,2019-02-23T16:05:11+02:00*%
-%FSLAX26Y26*%
+G04 DipTrace 3.3.1.2*
+G04 TopPaste.gbr*
 %MOIN*%
-%TF.FileFunction,Paste,Top*%
-%TF.Part,Single*%
+G04 #@! TF.FileFunction,Paste,Top*
+G04 #@! TF.Part,Single*
 %ADD57R,0.059049X0.078734*%
 %ADD59R,0.017711X0.033459*%
 %ADD61R,0.015742X0.07086*%
@@ -17,8 +16,13 @@
 %ADD91R,0.051175X0.043301*%
 %ADD93R,0.062986X0.055112*%
 %ADD95R,0.03149X0.035427*%
+%FSLAX26Y26*%
+G04*
+G70*
+G90*
 G75*
 G01*
+G04 TopPaste*
 %LPD*%
 D95*
 X3168700Y3231200D3*

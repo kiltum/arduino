@@ -1,16 +1,20 @@
-%TF.GenerationSoftware,Novarm,DipTrace,3.3.1.2*%
-%TF.CreationDate,2019-02-23T16:05:24+02:00*%
-%FSLAX26Y26*%
+G04 DipTrace 3.3.1.2*
+G04 BottomSilk.gbr*
 %MOIN*%
-%TF.FileFunction,Legend,Bot*%
-%TF.Part,Single*%
-%ADD21C,0.01*%
+G04 #@! TF.FileFunction,Legend,Bot*
+G04 #@! TF.Part,Single*
+%ADD22C,0.01*%
 %ADD97C,0.015439*%
+%FSLAX26Y26*%
+G04*
+G70*
+G90*
 G75*
 G01*
+G04 BotSilk*
 %LPD*%
 X2081200Y3656200D2*
-D21*
+D22*
 X3156200D1*
 Y2956200D1*
 X2081200D1*
