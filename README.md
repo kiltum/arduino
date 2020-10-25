@@ -1,5 +1,7 @@
 # Arduino shield for automation purposes
 
+ATTN: This is picture of very old board. I havent new pictures
+
 ![alt text](https://raw.githubusercontent.com/kiltum/arduino/master/real.jpg "Ready for using")
 
 
