@@ -21,8 +21,9 @@ What this shield can do?
 - D2,D3,D4 - TX,RX and RE/DE of 485
 - D11, D12, D13 - for second 485
 - D5 - PWM output for 0-10V
+- D6 - PWM output for second 0-10V
 - D7-D10 - control for switch relay 1-4
-- A4,A5,A7 - pulled down input for PT1000
+- A4,A5,A6,A7 - pulled down input for PT1000
 - A0-A3 - sensors input
 
 
@@ -32,22 +33,22 @@ Take board like on picture
 
 ### Top. Left-to-right
 
-- 1 - power in. AC/DC from 15V till 30V
-- 2 - power in
-- 3 - GND
-- 4 - RS485B
-- 5 - RS485A
-- 6 - RS485B2
+- 1 - power in POSITIVE
+- 2 - GND
+- 3 - RS485B
+- 4 - RS485A
+- 5 - RS485B2
 - 7 - RS485A2
+- 6 - GND
 - 8 - 5V
 - 9 - A4
 
 separator
 
 - 10 - A5
-- 11 - 5V 
+- 11 - A6 
 - 12 - A7
-- 13 - 5V
+- 13 - 0-10V output 2
 - 14 - 0-10V output 1
 - 15 - GND
 - 16 - R4 closed
@@ -56,13 +57,13 @@ separator
 
 ### Bottom, left to right
 
-- 1 - Sensor 1 220V
+- 1 - Sensor 1 220V / 24V Positive
 - 2 - Sensor 1
-- 3 - Sensor 2 220v
+- 3 - Sensor 2 220v / 24V Positive
 - 4 - Sensor 2
-- 5 - Sensor 3 220v
+- 5 - Sensor 3 220v / 24V Positive
 - 6 - Sensor 3
-- 7 - Sensor 4 220v
+- 7 - Sensor 4 220v / 24V Positive
 - 8 - Sensor 4
 - 9 - not connected
 
